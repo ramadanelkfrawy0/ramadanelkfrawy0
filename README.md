@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ramadan El-Kfrawy</h1>
-<h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramadanelkfrawy0&label=Profile%20views&color=0e75b6&style=flat" alt="ramadanelkfrawy0" /> </p>
 
